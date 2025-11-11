@@ -1,0 +1,27 @@
+Subtask 
+-------- 
+Dilation SE8
+Dilation SE8
+ Erosion SE8
+ Erosion SE8
+Iterate 4 Dilation SE3
+Iterate 4  Erosion SE3
+
+Subtask 
+-------- 
+Dilation SE2
+Dilation SE6
+ Erosion SE2
+ Erosion SE6
+Iterate 4 Dilation SE3
+Iterate 4  Erosion SE3
+
+Subtask 
+-------- 
+Dilation SE3
+Dilation SE7
+ Erosion SE3
+ Erosion SE7
+Iterate 4 Dilation SE3
+Iterate 4  Erosion SE3
+
