@@ -3,6 +3,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
+data/fortran_corpus/
+dhani_fortran_migration_20260221_172331/
 
 # C extensions
 *.so
