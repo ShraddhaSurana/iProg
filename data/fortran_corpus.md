@@ -32,12 +32,12 @@ collections with straightforward module structure.
 | 7 | toml-f | `low/toml-f` | [toml-f/toml-f](https://github.com/toml-f/toml-f) | TOML parser for Fortran (91 files, ~21.8k lines) |
 | 8 | fortran2018-examples | `low/fortran2018-examples` | [scivision/fortran2018-examples](https://github.com/scivision/fortran2018-examples) | Fortran 2018 example programs (75 files, ~3k lines) |
 | 9 | test-drive | `low/test-drive` | [fortran-lang/test-drive](https://github.com/fortran-lang/test-drive) | Testing framework for Fortran (5 files, ~4.3k lines) |
-| 10 | M_strings | `low/M_strings` | [urbanjost/M_strings](https://github.com/urbanjost/M_strings) | String manipulation utilities (112 files, ~35.3k lines) |
-| 11 | M_args-main | `low/M_args-main` | [urbanjost/M_CLI2](https://github.com/urbanjost/M_CLI2) | Command-line argument parsing (205 files, ~54.5k lines) |
+| 10 | M_strings | `low/M_strings` | [urbanjost/M_strings](https://github.com/urbanjost/M_strings) | String manipulation utilities (110 files, ~9.5k lines) |
+| 11 | M_args-main | `low/M_args-main` | [urbanjost/M_args](https://github.com/urbanjost/M_args) | Command-line argument parsing (16 files, ~4k lines) |
 | 12 | ABAQUS | `low/ABAQUS` | [WeilinDeng/ABAQUS](https://github.com/WeilinDeng/ABAQUS) | ABAQUS user subroutines (5 files, ~1.9k lines) |
 | 13 | ABAQUS-US | `low/ABAQUS-US` | [jgomezc1/ABAQUS-US](https://github.com/jgomezc1/ABAQUS-US) | ABAQUS user subroutine collection (37 files, ~47.4k lines) |
 | 14 | FKB | `low/FKB` | [scientific-computing/FKB](https://github.com/scientific-computing/FKB) | Fortran Keras Bridge — neural network inference (17 files, ~1.4k lines) |
-| 15 | Full-Stack-Fortran | `low/Full-Stack-Fortran` | [StarGate01/Full-Stack-Fortran](https://github.com/StarGate01/Full-Stack-Fortran) | Full-stack web framework in Fortran (6 files, ~7.9k lines) |
+| 15 | IO-Fortran-Library | `low/IO-Fortran-Library` | [acbbullock/IO-Fortran-Library](https://github.com/acbbullock/IO-Fortran-Library) | Portable standard I/O library for Modern Fortran (34 files, ~18.5k lines) |
 | 16 | forpy | `low/forpy` | [ylikx/forpy](https://github.com/ylikx/forpy) | Fortran-Python interoperability library (9 files, ~13.8k lines) |
 | 17 | fortran-utils | `low/fortran-utils` | [certik/fortran-utils](https://github.com/certik/fortran-utils) | Collection of Fortran utility modules (96 files, ~13k lines) |
 | 18 | fortranlib | `low/fortranlib` | [astrofrog/fortranlib](https://github.com/astrofrog/fortranlib) | General-purpose Fortran library (38 files, ~28.3k lines) |
